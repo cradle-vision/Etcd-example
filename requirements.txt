@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+etcd3
+python-dotenv
+protobuf
